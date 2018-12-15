@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">domofon</string>
+    <string name="open_door_button">Open door for 4 seconds</string>
+</resources>
